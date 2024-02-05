@@ -1,0 +1,125 @@
+body {
+    padding: 0;
+    margin: 0;
+    font-family: font-family: 'Noto Sans', sans-serif;
+    color: black;
+    font-size: 16px;
+}
+.container {
+    width: 1180px;
+    margin: 0 auto;
+
+}
+ul, li {
+    display: block;
+    padding: 0;
+    margin: 0;
+
+}
+.header {
+     background: url('../img/pink.jpg') no-repeat center top / cover;
+     padding-bottom: 300px;
+}
+header a{
+    color: black; 
+
+}
+.menu {
+    display: flex; 
+
+
+}
+.menu li a {
+ text-transform: uppercase;
+
+ text-decoration: none; 
+
+ font-size: 24px;
+}
+.menu li {
+    margin-right: 20px;
+}
+ul, li {
+    display: block;
+    padding: 0;
+    margin: 0;
+
+}
+{
+  box-sizing: border-box;
+}
+.tel {
+    font-size: 34px;
+    text-decoration: none;
+    margin-right: auto;
+}
+.menu {
+    display: flex;
+    align-items: center;
+}
+h1, h2, h3, h4, h5, h6 {
+    padding: 0;
+    margin: 0;
+    text-transform: uppercase;
+}
+.menu {
+    margin-left: 150px;
+}
+.alt{
+    margin: 0;
+}
+.menu{
+    padding: 60px;
+}
+.offer p{
+    font-size: 100px;
+    letter-spacing: 0.1em;
+
+}
+.offer h1{
+    font-size: 40px;
+}
+.btn{
+    display: block;
+    font-size: 17px;
+    text-align: center;
+    letter-spacing: 0.1em;
+    padding: 17px 47px;
+    border: 1px solid black;
+    width: 238px;
+    text-decoration: none;
+}
+section{
+    padding-top: 120px;
+}
+h2{
+    font-size: 50px;
+    margin-bottom: 58px;
+}
+.description{
+    display: flex;
+    justify-content: space-between;
+
+}
+.description p{
+    font-family: 'Open Sans';
+    font-weight: 400;
+    text-align: justify;
+    line-height: 1.62em;
+}
+.desc-left, .desc-rigth{
+    width: 567px;
+}
+.photo{
+    margin-top: 67px;
+    display: flex;
+    justify-content: space-between ;
+}
+.footer p{
+    font-size: 15px;
+
+}
+
+.container h3{
+    border: 1px solid black;
+}
